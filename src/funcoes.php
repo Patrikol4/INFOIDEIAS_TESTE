@@ -1,5 +1,4 @@
 <?php
-
 namespace SRC;
 
 class Funcoes
@@ -15,10 +14,15 @@ class Funcoes
 
      * */
     public function SeculoAno(int $ano): int {
-        
+
     }
 
-    
+
+
+
+
+
+
 	
 	
 	
@@ -37,6 +41,8 @@ class Funcoes
 
      * */
     public function PrimoAnterior(int $numero): int {
+
+
         
     }
 
@@ -110,3 +116,7 @@ class Funcoes
         
     }
 }
+
+
+
+?>
